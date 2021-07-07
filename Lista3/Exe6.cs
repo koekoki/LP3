@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 namespace exe6
 {
@@ -7,7 +7,7 @@ namespace exe6
         static void Main(string[] args)
         {
             ArrayList num = new ArrayList();
-            int x, maior= 0, menor = 0, posicao_menor = 0, posicao_maior =0;
+            int x, maior= 0, posicao_menor = 0, posicao_maior =0;
 
             Console.WriteLine("Digite os numeros: ");
             for (int i = 1; i >=0 ; i++) {
@@ -20,6 +20,7 @@ namespace exe6
                     num.Add(x);      
             }
 
+            int menor = (int)num[0];
             for (int i = 0; i < num.Count; i++) {
 
                 if ((int)num[i] < menor)
