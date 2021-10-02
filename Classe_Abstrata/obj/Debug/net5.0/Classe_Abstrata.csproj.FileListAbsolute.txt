@@ -1,0 +1,16 @@
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\Classe_Abstrata.exe
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\Classe_Abstrata.deps.json
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\Classe_Abstrata.runtimeconfig.json
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\Classe_Abstrata.runtimeconfig.dev.json
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\Classe_Abstrata.dll
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\ref\Classe_Abstrata.dll
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\bin\Debug\net5.0\Classe_Abstrata.pdb
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.AssemblyInfoInputs.cache
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.AssemblyInfo.cs
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.dll
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\ref\Classe_Abstrata.dll
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.pdb
+C:\Users\User\Documents\IFSP\313\LP3\CODES\Classe_Abstrata\obj\Debug\net5.0\Classe_Abstrata.genruntimeconfig.cache
